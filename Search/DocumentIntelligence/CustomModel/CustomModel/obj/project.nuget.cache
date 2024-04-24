@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "dApDnsNwqhzFnh9ZtGQE4RzfsM6Ot2hUrmBDBzZ7V/M/6Kl5a3CYxhLrYXnA+n1CIh0+BTvfYgAQWoFUr6F/rA==",
+  "success": true,
+  "projectFilePath": "C:\\Jayanth\\AI_ML\\AI\\Search\\DocumentIntelligence\\CustomModel\\CustomModel\\CustomModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jayanth\\.nuget\\packages\\azure.ai.formrecognizer\\4.1.0\\azure.ai.formrecognizer.4.1.0.nupkg.sha512",
+    "C:\\Users\\Jayanth\\.nuget\\packages\\azure.core\\1.34.0\\azure.core.1.34.0.nupkg.sha512",
+    "C:\\Users\\Jayanth\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\Jayanth\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
+    "C:\\Users\\Jayanth\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\Jayanth\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.3\\microsoft.extensions.configuration.fileextensions.3.1.3.nupkg.sha512",
+    "C:\\Users\\Jayanth\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.3\\microsoft.extensions.configuration.json.3.1.3.nupkg.sha512",
+    "C:\\Users\\Jayanth\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.3\\microsoft.extensions.fileproviders.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\Jayanth\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.3\\microsoft.extensions.fileproviders.physical.3.1.3.nupkg.sha512",
+    "C:\\Users\\Jayanth\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.3\\microsoft.extensions.filesystemglobbing.3.1.3.nupkg.sha512",
+    "C:\\Users\\Jayanth\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.3\\microsoft.extensions.primitives.3.1.3.nupkg.sha512",
+    "C:\\Users\\Jayanth\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\Jayanth\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\Jayanth\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Jayanth\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Jayanth\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\Jayanth\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\Jayanth\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

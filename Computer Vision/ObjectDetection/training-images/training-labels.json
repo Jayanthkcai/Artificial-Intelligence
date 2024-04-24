@@ -1,0 +1,1121 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image1.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image1.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image1.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674375Z"
+    },
+    {
+      "id": 2,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image4.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image4.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image4.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674065Z"
+    },
+    {
+      "id": 3,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image12.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image12.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image12.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674417Z"
+    },
+    {
+      "id": 4,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image11.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image11.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image11.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674573Z"
+    },
+    {
+      "id": 5,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image13.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image13.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image13.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674351Z"
+    },
+    {
+      "id": 6,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image29.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image29.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image29.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674561Z"
+    },
+    {
+      "id": 7,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image17.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image17.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image17.jpg",
+      "date_captured": "2024-03-18T10:36:06.267417Z"
+    },
+    {
+      "id": 8,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image32.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image32.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image32.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674136Z"
+    },
+    {
+      "id": 9,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image18.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image18.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image18.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674538Z"
+    },
+    {
+      "id": 10,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image16.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image16.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image16.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674473Z"
+    },
+    {
+      "id": 11,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image26.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image26.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image26.jpg",
+      "date_captured": "2024-03-18T10:36:06.267455Z"
+    },
+    {
+      "id": 12,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image14.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image14.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image14.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674124Z"
+    },
+    {
+      "id": 13,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image31.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image31.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image31.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674451Z"
+    },
+    {
+      "id": 14,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image33.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image33.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image33.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674182Z"
+    },
+    {
+      "id": 15,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image28.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image28.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image28.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674095Z"
+    },
+    {
+      "id": 16,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image20.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image20.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image20.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674148Z"
+    },
+    {
+      "id": 17,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image6.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image6.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image6.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674508Z"
+    },
+    {
+      "id": 18,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image3.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image3.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image3.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674207Z"
+    },
+    {
+      "id": 19,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image24.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image24.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image24.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674526Z"
+    },
+    {
+      "id": 20,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image2.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image2.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image2.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674462Z"
+    },
+    {
+      "id": 21,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image8.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image8.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image8.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674044Z"
+    },
+    {
+      "id": 22,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image9.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image9.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image9.jpg",
+      "date_captured": "2024-03-18T10:36:06.2672733Z"
+    },
+    {
+      "id": 23,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image7.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image7.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image7.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674428Z"
+    },
+    {
+      "id": 24,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image21.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image21.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image21.jpg",
+      "date_captured": "2024-03-18T10:36:06.267444Z"
+    },
+    {
+      "id": 25,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image19.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image19.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image19.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674336Z"
+    },
+    {
+      "id": 26,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image5.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image5.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image5.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674399Z"
+    },
+    {
+      "id": 27,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image27.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image27.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image27.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674496Z"
+    },
+    {
+      "id": 28,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image30.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image30.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image30.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674388Z"
+    },
+    {
+      "id": 29,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image22.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image22.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image22.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674112Z"
+    },
+    {
+      "id": 30,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image10.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image10.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image10.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674484Z"
+    },
+    {
+      "id": 31,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image15.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image15.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image15.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674194Z"
+    },
+    {
+      "id": 32,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image25.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image25.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image25.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674363Z"
+    },
+    {
+      "id": 33,
+      "width": 1024,
+      "height": 768,
+      "file_name": "image23.jpg",
+      "coco_url": "AmlDatastore://imgobjdetect_datastore/image23.jpg",
+      "absolute_url": "https://store100001.blob.core.windows.net/objdect/image23.jpg",
+      "date_captured": "2024-03-18T10:36:06.2674082Z"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "image_id": 1,
+      "area": 0.068,
+      "bbox": [
+        0.41841427981853485,
+        0.2601562738418579,
+        0.2367188036441803,
+        0.2890625
+      ]
+    },
+    {
+      "id": 2,
+      "category_id": 3,
+      "image_id": 1,
+      "area": 0.131,
+      "bbox": [
+        0.6809142976999283,
+        0.3460937738418579,
+        0.29999998211860657,
+        0.43593746423721313
+      ]
+    },
+    {
+      "id": 3,
+      "category_id": 3,
+      "image_id": 1,
+      "area": 0.183,
+      "bbox": [
+        0.05513307452201843,
+        0.35546875,
+        0.36796872317790985,
+        0.49843746423721313
+      ]
+    },
+    {
+      "id": 4,
+      "category_id": 2,
+      "image_id": 2,
+      "area": 0.274,
+      "bbox": [
+        0.5285705476999283,
+        0.2789062261581421,
+        0.4714294523000717,
+        0.581250011920929
+      ]
+    },
+    {
+      "id": 5,
+      "category_id": 3,
+      "image_id": 2,
+      "area": 0.105,
+      "bbox": [
+        0.26021115481853485,
+        0.17109376192092896,
+        0.2660156786441803,
+        0.39375001192092896
+      ]
+    },
+    {
+      "id": 6,
+      "category_id": 1,
+      "image_id": 2,
+      "area": 0.164,
+      "bbox": [
+        0.004742413759231567,
+        0.4554687738418579,
+        0.350390687584877,
+        0.4687499403953552
+      ]
+    },
+    {
+      "id": 7,
+      "category_id": 2,
+      "image_id": 3,
+      "area": 0.525,
+      "bbox": [
+        0.024664297699928284,
+        0.41796875,
+        0.9468750357627869,
+        0.5546875596046448
+      ]
+    },
+    {
+      "id": 8,
+      "category_id": 1,
+      "image_id": 3,
+      "area": 0.113,
+      "bbox": [
+        0.5648986548185349,
+        0.10078123211860657,
+        0.31171882152557373,
+        0.3609375059604645
+      ]
+    },
+    {
+      "id": 9,
+      "category_id": 3,
+      "image_id": 3,
+      "area": 0.116,
+      "bbox": [
+        0.20161744952201843,
+        0.04296875,
+        0.3070312589406967,
+        0.37812501192092896
+      ]
+    },
+    {
+      "id": 10,
+      "category_id": 3,
+      "image_id": 4,
+      "area": 0.16,
+      "bbox": [
+        0.4875549226999283,
+        0.1195313036441803,
+        0.33984375,
+        0.47031256556510925
+      ]
+    },
+    {
+      "id": 11,
+      "category_id": 2,
+      "image_id": 4,
+      "area": 0.28,
+      "bbox": [
+        0.11724244058132172,
+        0.2054687738418579,
+        0.38437503576278687,
+        0.729687511920929
+      ]
+    },
+    {
+      "id": 12,
+      "category_id": 3,
+      "image_id": 5,
+      "area": 0.186,
+      "bbox": [
+        0.5039611905813217,
+        0.20703125,
+        0.427734375,
+        0.43437498807907104
+      ]
+    },
+    {
+      "id": 13,
+      "category_id": 2,
+      "image_id": 5,
+      "area": 0.275,
+      "bbox": [
+        0.038726806640625,
+        0.22734373807907104,
+        0.43242184817790985,
+        0.6359375715255737
+      ]
+    },
+    {
+      "id": 14,
+      "category_id": 1,
+      "image_id": 6,
+      "area": 0.596,
+      "bbox": [
+        0.144195556640625,
+        0.0726563036441803,
+        0.6691406518220901,
+        0.8906249105930328
+      ]
+    },
+    {
+      "id": 15,
+      "category_id": 2,
+      "image_id": 7,
+      "area": 0.45,
+      "bbox": [
+        0.08208619058132172,
+        0.32734376192092896,
+        0.6890625357627869,
+        0.6531250476837158
+      ]
+    },
+    {
+      "id": 16,
+      "category_id": 1,
+      "image_id": 7,
+      "area": 0.168,
+      "bbox": [
+        0.3809143155813217,
+        0.16484373807907104,
+        0.47343751788139343,
+        0.35468751192092896
+      ]
+    },
+    {
+      "id": 17,
+      "category_id": 1,
+      "image_id": 8,
+      "area": 0.644,
+      "bbox": [
+        0.132476806640625,
+        0.0648438036441803,
+        0.7523437589406967,
+        0.8562499582767487
+      ]
+    },
+    {
+      "id": 18,
+      "category_id": 2,
+      "image_id": 9,
+      "area": 0.247,
+      "bbox": [
+        0.3398986905813217,
+        0.32109373807907104,
+        0.40195316076278687,
+        0.6140625476837158
+      ]
+    },
+    {
+      "id": 19,
+      "category_id": 3,
+      "image_id": 9,
+      "area": 0.084,
+      "bbox": [
+        0.6434143334627151,
+        0.14921873807907104,
+        0.24609375,
+        0.3421875238418579
+      ]
+    },
+    {
+      "id": 20,
+      "category_id": 3,
+      "image_id": 9,
+      "area": 0.179,
+      "bbox": [
+        0.03403928875923157,
+        0.30546873807907104,
+        0.3785156160593033,
+        0.4734375476837158
+      ]
+    },
+    {
+      "id": 21,
+      "category_id": 2,
+      "image_id": 10,
+      "area": 0.486,
+      "bbox": [
+        0.15357054769992828,
+        0.31171876192092896,
+        0.75,
+        0.6484375
+      ]
+    },
+    {
+      "id": 22,
+      "category_id": 1,
+      "image_id": 10,
+      "area": 0.134,
+      "bbox": [
+        0.24380497634410858,
+        0.13359373807907104,
+        0.3257811963558197,
+        0.4125000238418579
+      ]
+    },
+    {
+      "id": 23,
+      "category_id": 2,
+      "image_id": 11,
+      "area": 0.577,
+      "bbox": [
+        0.10786744952201843,
+        0.26484376192092896,
+        0.8156250268220901,
+        0.7078125476837158
+      ]
+    },
+    {
+      "id": 24,
+      "category_id": 2,
+      "image_id": 12,
+      "area": 0.342,
+      "bbox": [
+        0.03989866375923157,
+        0.21796876192092896,
+        0.4546874910593033,
+        0.7515624761581421
+      ]
+    },
+    {
+      "id": 25,
+      "category_id": 1,
+      "image_id": 12,
+      "area": 0.273,
+      "bbox": [
+        0.5672424584627151,
+        0.18828123807907104,
+        0.41249996423721313,
+        0.6625000238418579
+      ]
+    },
+    {
+      "id": 26,
+      "category_id": 1,
+      "image_id": 13,
+      "area": 0.578,
+      "bbox": [
+        0.17232057452201843,
+        0.11015623807907104,
+        0.6773437410593033,
+        0.8531249761581421
+      ]
+    },
+    {
+      "id": 27,
+      "category_id": 1,
+      "image_id": 14,
+      "area": 0.572,
+      "bbox": [
+        0.21333619952201843,
+        0.11484375596046448,
+        0.6796874552965164,
+        0.8421875536441803
+      ]
+    },
+    {
+      "id": 28,
+      "category_id": 2,
+      "image_id": 15,
+      "area": 0.437,
+      "bbox": [
+        0.23677365481853485,
+        0.20234376192092896,
+        0.5578125715255737,
+        0.7828124761581421
+      ]
+    },
+    {
+      "id": 29,
+      "category_id": 3,
+      "image_id": 16,
+      "area": 0.447,
+      "bbox": [
+        0.25435177981853485,
+        0.10703125596046448,
+        0.59765625,
+        0.7484375536441803
+      ]
+    },
+    {
+      "id": 30,
+      "category_id": 2,
+      "image_id": 17,
+      "area": 0.465,
+      "bbox": [
+        0.03755494952201843,
+        0.47265625,
+        0.8835937231779099,
+        0.526562511920929
+      ]
+    },
+    {
+      "id": 31,
+      "category_id": 3,
+      "image_id": 17,
+      "area": 0.134,
+      "bbox": [
+        0.6340392976999283,
+        0.19140625,
+        0.35859382152557373,
+        0.37500011920928955
+      ]
+    },
+    {
+      "id": 32,
+      "category_id": 3,
+      "image_id": 17,
+      "area": 0.102,
+      "bbox": [
+        0.03403928875923157,
+        0.15234375,
+        0.2777343839406967,
+        0.3671875
+      ]
+    },
+    {
+      "id": 33,
+      "category_id": 1,
+      "image_id": 17,
+      "area": 0.088,
+      "bbox": [
+        0.38560183346271515,
+        0.1117188036441803,
+        0.24492189288139343,
+        0.35781243443489075
+      ]
+    },
+    {
+      "id": 34,
+      "category_id": 1,
+      "image_id": 18,
+      "area": 0.137,
+      "bbox": [
+        0.14067994058132172,
+        0.25703126192092896,
+        0.31757810711860657,
+        0.4328124523162842
+      ]
+    },
+    {
+      "id": 35,
+      "category_id": 3,
+      "image_id": 18,
+      "area": 0.2,
+      "bbox": [
+        0.5297424048185349,
+        0.2867187261581421,
+        0.3773438036441803,
+        0.5312500596046448
+      ]
+    },
+    {
+      "id": 36,
+      "category_id": 2,
+      "image_id": 19,
+      "area": 0.576,
+      "bbox": [
+        0.06333616375923157,
+        0.3304687738418579,
+        0.912890687584877,
+        0.6312499642372131
+      ]
+    },
+    {
+      "id": 37,
+      "category_id": 1,
+      "image_id": 20,
+      "area": 0.086,
+      "bbox": [
+        0.3258362263441086,
+        0.2601562738418579,
+        0.24257808923721313,
+        0.35624998807907104
+      ]
+    },
+    {
+      "id": 38,
+      "category_id": 3,
+      "image_id": 20,
+      "area": 0.199,
+      "bbox": [
+        0.5777893513441086,
+        0.3460937738418579,
+        0.38203123211860657,
+        0.5218749642372131
+      ]
+    },
+    {
+      "id": 39,
+      "category_id": 3,
+      "image_id": 20,
+      "area": 0.143,
+      "bbox": [
+        0.029351815581321716,
+        0.3101562261581421,
+        0.30585935711860657,
+        0.4671875834465027
+      ]
+    },
+    {
+      "id": 40,
+      "category_id": 1,
+      "image_id": 21,
+      "area": 0.115,
+      "bbox": [
+        0.08208619058132172,
+        0.10703125596046448,
+        0.29648441076278687,
+        0.38750001788139343
+      ]
+    },
+    {
+      "id": 41,
+      "category_id": 2,
+      "image_id": 21,
+      "area": 0.486,
+      "bbox": [
+        0.028179913759231567,
+        0.4320312738418579,
+        0.8906250447034836,
+        0.5453124642372131
+      ]
+    },
+    {
+      "id": 42,
+      "category_id": 3,
+      "image_id": 21,
+      "area": 0.096,
+      "bbox": [
+        0.45005495846271515,
+        0.06171873211860657,
+        0.25898435711860657,
+        0.3687500059604645
+      ]
+    },
+    {
+      "id": 43,
+      "category_id": 3,
+      "image_id": 21,
+      "area": 0.141,
+      "bbox": [
+        0.6481018513441086,
+        0.1351563036441803,
+        0.3518981486558914,
+        0.4015624225139618
+      ]
+    },
+    {
+      "id": 44,
+      "category_id": 1,
+      "image_id": 22,
+      "area": 0.127,
+      "bbox": [
+        0.12896119058132172,
+        0.0804688036441803,
+        0.30820316076278687,
+        0.41093745827674866
+      ]
+    },
+    {
+      "id": 45,
+      "category_id": 3,
+      "image_id": 22,
+      "area": 0.109,
+      "bbox": [
+        0.5039611905813217,
+        0.07578125596046448,
+        0.32109376788139343,
+        0.33906248211860657
+      ]
+    },
+    {
+      "id": 46,
+      "category_id": 2,
+      "image_id": 22,
+      "area": 0.503,
+      "bbox": [
+        0.03169557452201843,
+        0.4273437261581421,
+        0.9468749910593033,
+        0.5312500596046448
+      ]
+    },
+    {
+      "id": 47,
+      "category_id": 3,
+      "image_id": 23,
+      "area": 0.265,
+      "bbox": [
+        0.015289306640625,
+        0.06171873211860657,
+        0.5308593660593033,
+        0.4984374940395355
+      ]
+    },
+    {
+      "id": 48,
+      "category_id": 1,
+      "image_id": 23,
+      "area": 0.551,
+      "bbox": [
+        0.0023986995220184326,
+        0.4085937738418579,
+        0.9750000089406967,
+        0.565625011920929
+      ]
+    },
+    {
+      "id": 49,
+      "category_id": 1,
+      "image_id": 23,
+      "area": 0.114,
+      "bbox": [
+        0.5941955298185349,
+        0.11640623211860657,
+        0.30820316076278687,
+        0.3687500059604645
+      ]
+    },
+    {
+      "id": 50,
+      "category_id": 3,
+      "image_id": 23,
+      "area": 0.09,
+      "bbox": [
+        0.2988830655813217,
+        0.0492188036441803,
+        0.240234375,
+        0.37343743443489075
+      ]
+    },
+    {
+      "id": 51,
+      "category_id": 3,
+      "image_id": 23,
+      "area": 0.163,
+      "bbox": [
+        0.014117449522018433,
+        0.03671875596046448,
+        0.3222655802965164,
+        0.5062501132488251
+      ]
+    },
+    {
+      "id": 52,
+      "category_id": 3,
+      "image_id": 24,
+      "area": 0.572,
+      "bbox": [
+        0.20747682452201843,
+        0.08359375596046448,
+        0.6714843660593033,
+        0.8515625298023224
+      ]
+    },
+    {
+      "id": 53,
+      "category_id": 3,
+      "image_id": 25,
+      "area": 0.641,
+      "bbox": [
+        0.17817994952201843,
+        0.04453125596046448,
+        0.6972655802965164,
+        0.9187499582767487
+      ]
+    },
+    {
+      "id": 54,
+      "category_id": 1,
+      "image_id": 26,
+      "area": 0.08,
+      "bbox": [
+        0.36567990481853485,
+        0.1351563036441803,
+        0.2484375536441803,
+        0.3203124701976776
+      ]
+    },
+    {
+      "id": 55,
+      "category_id": 3,
+      "image_id": 26,
+      "area": 0.109,
+      "bbox": [
+        0.6926330476999283,
+        0.13046875596046448,
+        0.29062503576278687,
+        0.3749999701976776
+      ]
+    },
+    {
+      "id": 56,
+      "category_id": 3,
+      "image_id": 26,
+      "area": 0.121,
+      "bbox": [
+        0.027008056640625,
+        0.1664062738418579,
+        0.3011718839406967,
+        0.4015624523162842
+      ]
+    },
+    {
+      "id": 57,
+      "category_id": 2,
+      "image_id": 26,
+      "area": 0.514,
+      "bbox": [
+        0.010601788759231567,
+        0.4570313096046448,
+        0.9644531160593033,
+        0.5328125953674316
+      ]
+    },
+    {
+      "id": 58,
+      "category_id": 2,
+      "image_id": 26,
+      "area": 0.0,
+      "bbox": [
+        0.5074768513441086,
+        0.45234376192092896,
+        0.0011718571186065674,
+        0.03125
+      ]
+    },
+    {
+      "id": 59,
+      "category_id": 2,
+      "image_id": 27,
+      "area": 0.344,
+      "bbox": [
+        0.150054931640625,
+        0.3304687738418579,
+        0.7429687231779099,
+        0.46250003576278687
+      ]
+    },
+    {
+      "id": 60,
+      "category_id": 1,
+      "image_id": 28,
+      "area": 0.431,
+      "bbox": [
+        0.25435177981853485,
+        0.1429688036441803,
+        0.580078125,
+        0.7437500059604645
+      ]
+    },
+    {
+      "id": 61,
+      "category_id": 3,
+      "image_id": 29,
+      "area": 0.701,
+      "bbox": [
+        0.191070556640625,
+        0.0335938036441803,
+        0.7476562410593033,
+        0.9374999105930328
+      ]
+    },
+    {
+      "id": 62,
+      "category_id": 3,
+      "image_id": 30,
+      "area": 0.13,
+      "bbox": [
+        0.20513306558132172,
+        0.1273438036441803,
+        0.29531246423721313,
+        0.43906256556510925
+      ]
+    },
+    {
+      "id": 63,
+      "category_id": 3,
+      "image_id": 30,
+      "area": 0.278,
+      "bbox": [
+        0.5074768513441086,
+        0.2132812738418579,
+        0.39492183923721313,
+        0.7046875357627869
+      ]
+    },
+    {
+      "id": 64,
+      "category_id": 3,
+      "image_id": 31,
+      "area": 0.24,
+      "bbox": [
+        0.10200807452201843,
+        0.14453125,
+        0.4125000089406967,
+        0.581250011920929
+      ]
+    },
+    {
+      "id": 65,
+      "category_id": 2,
+      "image_id": 31,
+      "area": 0.262,
+      "bbox": [
+        0.5332580655813217,
+        0.2289062738418579,
+        0.40078121423721313,
+        0.6546874642372131
+      ]
+    },
+    {
+      "id": 66,
+      "category_id": 2,
+      "image_id": 32,
+      "area": 0.538,
+      "bbox": [
+        0.07505491375923157,
+        0.20703125,
+        0.7218750268220901,
+        0.745312511920929
+      ]
+    },
+    {
+      "id": 67,
+      "category_id": 3,
+      "image_id": 33,
+      "area": 0.632,
+      "bbox": [
+        0.191070556640625,
+        0.025781303644180298,
+        0.7207031697034836,
+        0.8765625059604645
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Apple"
+    },
+    {
+      "id": 2,
+      "name": "Banana"
+    },
+    {
+      "id": 3,
+      "name": "Orange"
+    }
+  ]
+}

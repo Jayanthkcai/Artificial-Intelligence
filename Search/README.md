@@ -1,0 +1,1 @@
+This Folder has info for Knowledge mining and Document Intelligence
