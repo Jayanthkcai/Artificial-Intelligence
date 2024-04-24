@@ -34,3 +34,5 @@ Azure AI Services:
 ![Services](images/Azure_AI_1.png)
 
 [Azure APIs](https://centraluseuap.dev.cognitive.microsoft.com/docs/services?pageSize=0)
+
+Note: This repository is self learning and understanding documentation crafted referencing the Microsoft AI-102 documentation
